@@ -36,7 +36,8 @@ COMMIT;
 
  
 KOMUNIKACIJA IZMEĐU BAZE I APLIKACIJE
-Komunikacija baze i aplikacije omogućena je pomoću php-a. U našem slučaju koriste se tri php fajla. Sva tri php fajla potrebno je spremiti u HTDOCS folder, z+ukoliko koristite XAMPP, a u slučaju WAMP-a php-ove je potrebno spremiti u folder WWW. 
+Komunikacija baze i aplikacije omogućena je pomoću php-a. U našem slučaju koriste se tri php fajla. Sva tri php fajla potrebno je spremiti u HTDOCS folder, ukoliko koristite XAMPP, a u slučaju WAMP-a php-ove je potrebno spremiti u folder WWW. 
+
 Prvi php fajl (conn.php) služi za konektovanje na samu bazu. U njemu je potrebno izvršiti promjene dvije varijable:
 $mysql_username = "root";
 $mysql_password = "";
