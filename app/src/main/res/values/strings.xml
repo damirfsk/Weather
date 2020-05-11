@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather_hint">Unesite lokaciju…</string>
+    <string name="unesi">Unesi</string>
+    <string name="dobrodo_li_u_aplikaciju_za_vrijeme_molimo_prvo_se_prijavite">Dobrodošli u aplikaciju za vrijeme, molimo prijavite se.</string>
+    <string name="unesite_molimo_va_e_podatke_za_registraciju">Unesite vaše podatke za registraciju</string>
+    <string name="c">°C</string>
+    <string name="odjava">Odjava</string>
+    <string name="nemate_racun_registrirajte_se">Nemate račun? Registrujte se.</string>
+    <string name="vi_e">Više</string>
+    <string name="tra_i">Traži</string>
+    <string name="razina_vlage">Razina vlage: </string>
+    <string name="pritisak">Pritisak: </string>
+    <string name="maxtemp">Najviša temperatura: </string>
+    <string name="mintemp">Najniža temperatura: </string>
+    <string name="brzvjet">Brzina vjetra: </string>
+    <string name="ms">m/s</string>
+    <string name="post">%</string>
+    <string name="hpa">hPa</string>
+</resources>
